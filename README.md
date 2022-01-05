@@ -8,9 +8,9 @@ NYC Real Estate Data Warehouse
 Project Objective: Follow the Kimball Lifecycle to design and develop a public, cloud-based Data Warehouse with a functioning BI Applications
  
 Project Tools:
-The tools used to build this Data Warehouse were: (change this to make applicable to your project)
-1. For data integration - python
-2. For data warehousing - Google BigQuery
+The tools used to build this Data Warehouse were:
+1. For Data Integration - Python
+2. For Data Warehousing - Google BigQuery
 3. For Business Intelligence - Tableau
  
 ## Kimball Lifecycle Project Stages
