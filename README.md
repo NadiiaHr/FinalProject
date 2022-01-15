@@ -72,7 +72,7 @@ https://github.com/NadiiaHr/FinalProject/blob/main/img/dashboard2.JPG
 ### Deployment
  
 The project was deployed on Tableau Public: 
-https://public.tableau.com/app/profile/nadiia.hryhoruk/viz/Dashboard1_16417930206030/Dashboard1
+https://public.tableau.com/app/profile/nadiia.hryhoruk/viz/Dashboard1_16422146589400/Dashboard2
 						
 https://public.tableau.com/app/profile/nadiia.hryhoruk/viz/Dashboard2_16421064834500/Dashboard1
 
