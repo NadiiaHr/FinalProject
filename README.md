@@ -65,9 +65,9 @@ https://github.com/NadiiaHr/FinalProject/blob/main/img/wireframe_design.JPG
 
 Picture of final Dashboard:
  
-https://github.com/NadiiaHr/FinalProject/blob/main/img/dashboard1.JPG
+https://github.com/NadiiaHr/FinalProject/blob/main/img/dashboard1.png
 
-https://github.com/NadiiaHr/FinalProject/blob/main/img/dashboard2.JPG
+https://github.com/NadiiaHr/FinalProject/blob/main/img/dashboard2.png
 
 ### Deployment
  
